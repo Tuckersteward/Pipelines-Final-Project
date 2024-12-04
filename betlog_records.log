@@ -1,0 +1,12 @@
+2024-12-04 13:39:33,649 - INFO - Data successfully copied to PostgreSQL staging table.
+2024-12-04 13:39:33,651 - INFO - Temporary file 'placed_bet_staging.csv' deleted.
+2024-12-04 13:39:34,194 - ERROR - Error during relpication processing: value too long for type character varying(4)
+
+2024-12-04 13:40:01,474 - INFO - Data successfully copied to PostgreSQL staging table.
+2024-12-04 13:40:01,477 - INFO - Temporary file 'placed_bet_staging.csv' deleted.
+2024-12-04 13:40:02,020 - ERROR - Error during relpication processing: null value in column "game_outcome_id" of relation "placed_bet" violates not-null constraint
+DETAIL:  Failing row contains (12836, 29, null, 9000, null, 640.00, Indianapolis Colts, line).
+
+2024-12-04 13:44:33,814 - INFO - Data successfully copied to PostgreSQL staging table.
+2024-12-04 13:44:33,816 - INFO - Temporary file 'placed_bet_staging.csv' deleted.
+2024-12-04 13:44:37,344 - INFO - Inserting into prod successfully
