@@ -1,0 +1,4 @@
+2024-12-06 13:32:05,249 - INFO - Data successfully copied to PostgreSQL staging table.
+2024-12-06 13:32:05,251 - INFO - Temporary file 'placed_bet_staging.csv' deleted.
+2024-12-06 13:32:08,542 - INFO - Inserting into prod successfully
+2024-12-06 15:34:07,260 - INFO - generated new fontManager
